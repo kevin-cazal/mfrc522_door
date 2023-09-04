@@ -81,7 +81,7 @@ Note: the tag is not actually "deleted" but "deactivated"
 Update a tag's properties based on its id:
 ```
 USAGE: update <id> <name> <uid> <perm>
-EXAMPLE: update 21 ImBtrThanU 000000DEADBEEFBABECAFE 2
+EXAMPLE: update 21 Toto 000000DEADBEEFBABECAFE 2
 ```
 
 Print the list of registered tags:
